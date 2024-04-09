@@ -1,0 +1,12 @@
+.contact {
+  height: 90svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(89, 144, 246);
+  font-weight: bold;
+}
+h1 {
+  font-size: 50px;
+  text-transform: capitalize;
+}
